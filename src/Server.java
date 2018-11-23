@@ -61,5 +61,6 @@ public class Server
                 }
         } catch (ClassNotFoundException e)
         {e.printStackTrace();}
+        System.out.println("Hello,world!");
     }
 }
